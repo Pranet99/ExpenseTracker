@@ -1,0 +1,15 @@
+/* src/styles/IncomeExpenseChart.css */
+.income-expense-chart {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .income-expense-chart h3 {
+    margin-bottom: 20px;
+  }
+  
